@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsc *)",
+      "Bash(npm run *)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(git config *)",
+      "Bash(git reset *)",
+      "Bash(git commit '--author=Sumeet Suryawanshi <s.l.suryawanshi4@gmail.com>' -m 'Initial commit: Optika — interactive algorithm visualization platform *)",
+      "Bash(rm -rf .git)"
+    ]
+  }
+}
