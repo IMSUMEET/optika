@@ -6,9 +6,11 @@ import { PathfindingWorld } from './pages/PathfindingWorld';
 import { TreeExplorer } from './pages/TreeExplorer';
 import { GraphUniverse } from './pages/GraphUniverse';
 
+const basename = import.meta.env.BASE_URL.replace(/\/+$/, '');
+
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={basename}>
       <Navbar />
       <Routes>
         <Route path="/"            element={<Home />} />
