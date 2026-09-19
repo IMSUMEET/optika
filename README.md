@@ -8,6 +8,22 @@ Optika is an interactive algorithm visualization platform where you can build sc
 
 ---
 
+## Preview
+
+<p align="center">
+  <img src="docs/screenshots/home.png" alt="Optika home — choose your world" width="900" />
+</p>
+
+| Sorting Factory | Pathfinding City |
+|:---:|:---:|
+| <img src="docs/screenshots/sorting.png" alt="Sorting Factory running Quick Sort" width="440" /> | <img src="docs/screenshots/pathfinding.png" alt="Pathfinding City running BFS" width="440" /> |
+
+| Tree Forest | Graph Galaxy |
+|:---:|:---:|
+| <img src="docs/screenshots/tree.png" alt="Tree Forest with a live BST" width="440" /> | <img src="docs/screenshots/graph.png" alt="Graph Galaxy running Dijkstra" width="440" /> |
+
+---
+
 ## Worlds
 
 ### 🏭 Sorting Factory
